@@ -13,8 +13,8 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=sirmilann&theme=blue-green)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sirmilann&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username=sirmilann&theme=black-white)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sirmilann&theme=black-white)
 ```python
 from GitHub import ReadMe
 
