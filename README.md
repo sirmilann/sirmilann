@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=sirmilann&style=for-the-badge) 
 
 ![](https://github-readme-stats.vercel.app/api?username=sirmilann&theme=blue-green)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sirmilann&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sirmilann&theme=blue-white)
 
 
 ```python
