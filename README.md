@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=sirmilann)
+![](https://komarev.com/ghpvc/?username=sirmilann&style=for-the-badge)
 ```python
 from GitHub import ReadMe
 
