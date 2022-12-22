@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 ![]()
 ![]()
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={sirmilann}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sirmilann&theme=blue-green)
 ![](https://github-readme-stats.vercel.app/api?username={sirmilann}&theme=blue-green)
 ```python
 from GitHub import ReadMe
