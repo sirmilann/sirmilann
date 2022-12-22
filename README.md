@@ -34,6 +34,7 @@ class sirmilann(ReadMe):
         self.language = "English"
         self.coding_languages = "Python"
         self.location = "United Kingdom"
+        self.donateXMR = "44Q5UNcp3LR4SRZm3fymYeDZETwc6aTynLGnkBgLMTw7a3Nkjambq3WGbqFHLA7gc8D1mVJ6ji7tUeKbKVi9KirJQ3n4964"
 
     def about(self):
         print(f"Hi, I'm {self.username}. I'm just a guy who codes.")
