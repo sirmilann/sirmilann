@@ -19,6 +19,7 @@ class sirmilann(ReadMe):
         """)
         self.username = "sirmilann"
         self.language = "English"
+        self.language = "https://discord.gg/s5taj6QXQV"
         self.coding_languages = "Python"
         self.location = "United Kingdom"
         self.donateXMR = "44Q5UNcp3LR4SRZm3fymYeDZETwc6aTynLGnkBgLMTw7a3Nkjambq3WGbqFHLA7gc8D1mVJ6ji7tUeKbKVi9KirJQ3n4964"
