@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=welcome+to+my+profile!;)](https://git.io/typing-svg)
 ```python
 from GitHub import ReadMe
 
