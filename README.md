@@ -1,27 +1,50 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=100&size=26&pause=1000&width=435&lines=Welcome+To+My+Page!)](https://git.io/typing-svg)
-```python
-from GitHub import ReadMe
+```c++
+#include <iostream>
+#include <string>
 
-class sirmilann(ReadMe):
-    def __init__(self):
-        print("""
+class ReadMe {
+public:
+    virtual void about() = 0;
+};
+
+class sirmilann : public ReadMe {
+public:
+    sirmilann() {
+        std::cout << R"(
        ██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ ██╗
        ██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗██║
        ███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║██║
        ██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║╚═╝
        ██║  ██║███████╗███████╗███████╗╚██████╔╝    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝██╗
        ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝
-        """)
-        self.username = "sirmilann"
-        self.language = "English"
-        self.discord = "https://discord.gg/J5n6dEvEar"
-        self.coding_languages = "Python"
-        self.location = "United Kingdom"
-        self.donateXMR = "44Q5UNcp3LR4SRZm3fymYeDZETwc6aTynLGnkBgLMTw7a3Nkjambq3WGbqFHLA7gc8D1mVJ6ji7tUeKbKVi9KirJQ3n4964"
+        )" << std::endl;
+        
+        username = "sirmilann";
+        language = "English";
+        discord = "https://discord.gg/Eww5ucwY4a";
+        coding_languages = "C++";
+        location = "United Kingdom";
+        donateXMR = "44Q5UNcp3LR4SRZm3fymYeDZETwc6aTynLGnkBgLMTw7a3Nkjambq3WGbqFHLA7gc8D1mVJ6ji7tUeKbKVi9KirJQ3n4964";
+    }
 
-    def about(self):
-        print(f"Hi, I'm {self.username}. I'm just a guy who codes.")
+    void about() override {
+        std::cout << "Hi, I'm " << username << ". I'm just a guy who codes." << std::endl;
+    }
 
-me = sirmilann()
-me.about()
+private:
+    std::string username;
+    std::string language;
+    std::string discord;
+    std::string coding_languages;
+    std::string location;
+    std::string donateXMR;
+};
+
+int main() {
+    sirmilann me;
+    me.about();
+    return 0;
+}
+
 ```
