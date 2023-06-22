@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=100&size=26&pause=1000&width=435&lines=Welcome+To+My+Page!)](https://git.io/typing-svg)
 ```c++
 #include <iostream>
 #include <string>
