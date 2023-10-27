@@ -21,7 +21,6 @@ public:
         
         username = "sirmilann";
         language = "English";
-        discord = "https://discord.gg/Eww5ucwY4a";
         coding_languages = "C++";
         location = "United Kingdom";
         donateXMR = "44Q5UNcp3LR4SRZm3fymYeDZETwc6aTynLGnkBgLMTw7a3Nkjambq3WGbqFHLA7gc8D1mVJ6ji7tUeKbKVi9KirJQ3n4964";
